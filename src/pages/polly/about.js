@@ -1,4 +1,6 @@
-import React from 'react'
+---POLLYRAMOS---
+
+import React from 'react-polly'
 import { graphql } from 'gatsby'
 import { HelmetDatoCms } from 'gatsby-source-datocms'
 import Img from 'gatsby-image'
